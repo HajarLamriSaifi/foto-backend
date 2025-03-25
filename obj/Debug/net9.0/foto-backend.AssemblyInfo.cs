@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("foto-backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efe8d8d5e22d8e234e331de4e6deaabe554251df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89eb7366f39a9465debb7b81b3ed28e7ea95537e")]
 [assembly: System.Reflection.AssemblyProductAttribute("foto-backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("foto-backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
