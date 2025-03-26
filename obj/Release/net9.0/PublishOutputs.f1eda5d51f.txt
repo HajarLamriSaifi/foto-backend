@@ -1,0 +1,10 @@
+/Users/hajarlamrisaifi/Desktop/foto-backend/bin/Release/net9.0/publish/foto-backend
+/Users/hajarlamrisaifi/Desktop/foto-backend/bin/Release/net9.0/publish/appsettings.Development.json
+/Users/hajarlamrisaifi/Desktop/foto-backend/bin/Release/net9.0/publish/appsettings.json
+/Users/hajarlamrisaifi/Desktop/foto-backend/bin/Release/net9.0/publish/foto-backend.dll
+/Users/hajarlamrisaifi/Desktop/foto-backend/bin/Release/net9.0/publish/foto-backend.deps.json
+/Users/hajarlamrisaifi/Desktop/foto-backend/bin/Release/net9.0/publish/foto-backend.runtimeconfig.json
+/Users/hajarlamrisaifi/Desktop/foto-backend/bin/Release/net9.0/publish/foto-backend.pdb
+/Users/hajarlamrisaifi/Desktop/foto-backend/bin/Release/net9.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/hajarlamrisaifi/Desktop/foto-backend/bin/Release/net9.0/publish/Microsoft.OpenApi.dll
+/Users/hajarlamrisaifi/Desktop/foto-backend/bin/Release/net9.0/publish/RestSharp.dll

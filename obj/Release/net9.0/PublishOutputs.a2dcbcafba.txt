@@ -1,0 +1,16 @@
+/Users/hajarlamrisaifi/Desktop/foto-backend/publish/foto-backend
+/Users/hajarlamrisaifi/Desktop/foto-backend/publish/publish/web.config
+/Users/hajarlamrisaifi/Desktop/foto-backend/publish/appsettings.Development.json
+/Users/hajarlamrisaifi/Desktop/foto-backend/publish/appsettings.json
+/Users/hajarlamrisaifi/Desktop/foto-backend/publish/publish/appsettings.Development.json
+/Users/hajarlamrisaifi/Desktop/foto-backend/publish/publish/appsettings.json
+/Users/hajarlamrisaifi/Desktop/foto-backend/publish/publish/foto-backend.deps.json
+/Users/hajarlamrisaifi/Desktop/foto-backend/publish/publish/foto-backend.runtimeconfig.json
+/Users/hajarlamrisaifi/Desktop/foto-backend/publish/publish/foto-backend.staticwebassets.endpoints.json
+/Users/hajarlamrisaifi/Desktop/foto-backend/publish/foto-backend.dll
+/Users/hajarlamrisaifi/Desktop/foto-backend/publish/foto-backend.deps.json
+/Users/hajarlamrisaifi/Desktop/foto-backend/publish/foto-backend.runtimeconfig.json
+/Users/hajarlamrisaifi/Desktop/foto-backend/publish/foto-backend.pdb
+/Users/hajarlamrisaifi/Desktop/foto-backend/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/hajarlamrisaifi/Desktop/foto-backend/publish/Microsoft.OpenApi.dll
+/Users/hajarlamrisaifi/Desktop/foto-backend/publish/RestSharp.dll
